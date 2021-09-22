@@ -13,6 +13,7 @@ ECHO   2 - Disable Invisible Mode
 ECHO   3 - EXIT                                                                    
 ECHO.
 ECHO.
+ECHO.
 SET /P M=Please pick a number:
 IF %M%==1 GOTO DISABLE
 IF %M%==2 GOTO ENABLE
