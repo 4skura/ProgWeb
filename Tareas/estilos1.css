@@ -1,0 +1,64 @@
+.fondoverde{
+    background-color: rgb(26, 188, 156);
+}
+
+.fondorojo{
+    background-color: red;
+}
+
+.fondoaqua{
+    background-color: mediumaquamarine;
+}
+
+.fondoblanco{
+    background-color: linen;
+}
+
+.fondoazul{
+    background-color: rgb(54, 128, 212);
+}
+
+.fondovioleta{
+    background-color: mediumpurple;
+}
+
+.fondoamarillo{
+    background-color: gold;
+}
+
+.fondoverdeclaro{
+    background-color: greenyellow;
+}
+
+.letrablanca{
+    color: ivory;
+}
+
+.tamanioletra{
+    font-size: 30px;
+}
+
+.bordegris{
+    border: 4px outset slategray;
+}
+
+.bordegris2{
+    border: 2px outset slategray;
+}
+
+.bordegris3{
+    border: 8px outset darkgrey;
+}
+
+.bordenegro{
+    border: 1px outset black;
+}
+
+.tamaniorecuadro{
+    width: 100%;
+}
+
+.margen{
+    margin: -5px;
+    padding: -5px;
+}
