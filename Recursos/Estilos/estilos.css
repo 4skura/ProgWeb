@@ -1,0 +1,74 @@
+body{
+    background-color: maroon;
+    padding: 5em;
+    
+}
+
+@font-face {
+    font-family: font4sk;
+    src: url(Font/ComeValentine.otf);
+}
+
+.fondorojo{
+    background-color:firebrick ;
+}
+
+.fondoblanco{
+    background-color:white ;
+}
+
+.fondoazul{
+    background-color:cornflowerblue ;
+}
+
+.fondonegro{
+    background-color:black ;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 60px;
+    color: darkgray;
+}
+
+.texto2{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: font4sk;
+}
+
+.texto3{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.texto4{
+    text-align: left;
+    font-size: 25px;
+    color: darkgray;
+}
+
+.imagen{
+    width: 90%;
+    text-align: center;
+}
+
+.bordeblanco{
+    border:20px solid oldlace;
+    border-radius: 15px;
+}
+
+.fondoImagen{
+    background-image: url(Media/logoUNAM2.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 10rem;
+    padding: 25px;
+}
+
+.iconolista{
+    list-style-image: url(Media/iconoLista.png);
+}
