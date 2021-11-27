@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "fuente1";
+    src: url(President.ttf);
+}
+
+@font-face {
+    font-family: "fuente2";
+    src: url(satansisland.ttf);
+}
+
+.titulo1{
+    font-family: "fuente1";
+    font-size: 500%;
+}
+
+.titulo2{
+    font-family: "fuente2";
+    font-size: 500%;
+}
